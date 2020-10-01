@@ -1,0 +1,103 @@
+* {
+  margin: 0;
+  padding: 0;
+}
+
+#body {
+  background-color: #242424;
+  color: #fff;
+}
+
+#input {
+  resize: none;
+  height: auto;
+  width: 92%;
+  outline: none;
+  padding: 20px;
+  border-radius: 20px;
+  background-color: #333;
+  color: #fff;
+  font-size: 1.2rem;
+}
+
+#CSSinput {
+  resize: none;
+  height: auto;
+  width: 92%;
+  outline: none;
+  padding: 20px;
+  border-radius: 20px;
+  background-color: #333;
+  color: #fff;
+  font-size: 1.2rem;
+}
+
+#JSinput {
+  resize: none;
+  height: auto;
+  width: 92%;
+  outline: none;
+  padding: 20px;
+  border-radius: 20px;
+  background-color: #333;
+  color: #fff;
+  font-size: 1.2rem;
+}
+
+#output-style {
+  resize: none;
+  height: 100vh;
+  width: 92%;
+  outline: none;
+   margin: 0;
+  font-family: var(--bs-font-sans-serif);
+  font-size: 1rem;
+  font-weight: 400;
+  line-height: 1.5;
+  color: #212529;
+  background-color: #fff;
+  -webkit-text-size-adjust: 100%;
+  -webkit-tap-highlight-color: transparent;
+}
+
+#output {
+  height: 100vh;
+  width: 100%;
+  margin: 0;
+  font-family: var(--bs-font-sans-serif);
+  font-size: 1rem;
+  font-weight: 400;
+  line-height: 1.5;
+  color: #212529;
+  background-color: #fff;
+  -webkit-text-size-adjust: 100%;
+  -webkit-tap-highlight-color: transparent;
+}
+
+#project {
+  outline: none;
+  padding: 10px;
+  border-radius: 20px;
+  background-color: #333;
+  color: #fff;
+  font-size: 1rem;
+  border-style: none;
+}
+
+#projectlist {
+  outline: none;
+  padding: 10px;
+  border-radius: 5px;
+  background-color: #333;
+  color: #fff;
+  font-size: 1.1rem;
+  border-style: none;
+}
+
+#saveBtn {
+  border-radius: 100px;
+}
+
+#delBtn {
+  border-radius: 100px;
+}
